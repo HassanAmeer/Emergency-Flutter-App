@@ -270,7 +270,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                         ],
                       ),
                     ),
-                    SizedBox(height: 80),
+                    const SizedBox(height: 80),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
@@ -285,7 +285,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                               children: [
                                 Container(
                                   width: double.infinity,
-                                  decoration: BoxDecoration(
+                                  decoration: const BoxDecoration(
                                     color: Colors.black,
                                   ),
                                   child: Padding(
@@ -299,7 +299,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                     ),
                                   ),
                                 ),
-                                Divider(height: 10),
+                                const Divider(height: 10),
                                 Text(
                                   " 3 ",
                                   style: GoogleFonts.agdasima(
@@ -319,7 +319,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                               children: [
                                 Container(
                                   width: double.infinity,
-                                  decoration: BoxDecoration(
+                                  decoration: const BoxDecoration(
                                     color: Colors.black,
                                   ),
                                   child: Padding(
@@ -333,7 +333,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                     ),
                                   ),
                                 ),
-                                Divider(height: 10),
+                                const Divider(height: 10),
                                 Text(
                                   " 4 ",
                                   style: GoogleFonts.agdasima(
@@ -353,7 +353,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                               children: [
                                 Container(
                                   width: double.infinity,
-                                  decoration: BoxDecoration(
+                                  decoration: const BoxDecoration(
                                     color: Colors.black,
                                   ),
                                   child: Padding(
@@ -367,7 +367,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                     ),
                                   ),
                                 ),
-                                Divider(height: 10),
+                                const Divider(height: 10),
                                 Text(
                                   " 0",
                                   style: GoogleFonts.agdasima(
@@ -712,7 +712,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                       icon: Icons.health_and_safety_rounded,
                     ),
 
-                    SizedBox(height: 20),
+                    const SizedBox(height: 20),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
@@ -728,7 +728,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                 Container(
                                   width: double.infinity,
                                   decoration:
-                                      BoxDecoration(color: Colors.black),
+                                      const BoxDecoration(color: Colors.black),
                                   child: Padding(
                                     padding: const EdgeInsets.all(5),
                                     child: Text(
@@ -740,7 +740,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                     ),
                                   ),
                                 ),
-                                Divider(height: 10),
+                                const Divider(height: 10),
                                 Text(
                                   " 0301234567 ",
                                   style: GoogleFonts.agdasima(
@@ -761,7 +761,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                               children: [
                                 Container(
                                   width: double.infinity,
-                                  decoration: BoxDecoration(
+                                  decoration: const BoxDecoration(
                                     color: Colors.black,
                                   ),
                                   child: Padding(
@@ -775,7 +775,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                     ),
                                   ),
                                 ),
-                                Divider(height: 10),
+                                const Divider(height: 10),
                                 Text(
                                   " 000 ",
                                   style: GoogleFonts.agdasima(
@@ -796,7 +796,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                               children: [
                                 Container(
                                   width: double.infinity,
-                                  decoration: BoxDecoration(
+                                  decoration: const BoxDecoration(
                                     color: Colors.black,
                                   ),
                                   child: Padding(
@@ -810,7 +810,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                                     ),
                                   ),
                                 ),
-                                Divider(height: 10),
+                                const Divider(height: 10),
                                 Text(
                                   " 131126 ",
                                   style: GoogleFonts.agdasima(
@@ -822,7 +822,7 @@ class _SiteDetailsPageState extends State<SiteDetailsPage> {
                             )),
                       ],
                     ),
-                    SizedBox(height: 50),
+                    const SizedBox(height: 50),
                   ]),
                 ),
                 ///////  third page

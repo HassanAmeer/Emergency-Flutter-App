@@ -58,7 +58,7 @@ class StatusCard extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(10),
                   child: Text(
-                    "$title",
+                    title,
                     style: GoogleFonts.lateef(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
